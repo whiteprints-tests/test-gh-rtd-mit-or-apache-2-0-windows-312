@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2026 Romain Brault <mail@romainbrault.com>
+# SPDX-FileCopyrightText: © 2026 Romain Brault <mail@romainbrault.com>
 #
 # SPDX-License-Identifier: MIT OR Apache-2.0
 
@@ -21,7 +21,6 @@ license-files = [
     "LICENSES/Apache-2.0.txt",
     "LICENSES/MIT.txt",
 ]
-
 maintainers = [
     { name = "Romain Brault", email = "mail@romainbrault.com" },
 ]
@@ -50,6 +49,15 @@ dynamic = [
 dependencies = [
     "distro>=1.9.0",
 ]
+
+urls.changelog = "https://github.com/whiteprints-tests/test-gh-rtd-mit-or-apache-2-0-windows-312/releases"
+urls.discussions = "https://github.com/whiteprints-tests/test-gh-rtd-mit-or-apache-2-0-windows-312/discussions"
+urls.documentation = "https://github.com/whiteprints-tests/test-gh-rtd-mit-or-apache-2-0-windows-312"
+urls.download = "https://github.com/whiteprints-tests/test-gh-rtd-mit-or-apache-2-0-windows-312/releases"
+urls.homepage = "https://github.com/whiteprints-tests/test-gh-rtd-mit-or-apache-2-0-windows-312"
+urls.integration = "https://github.com/whiteprints-tests/test-gh-rtd-mit-or-apache-2-0-windows-312/actions"
+urls.issues = "https://github.com/whiteprints-tests/test-gh-rtd-mit-or-apache-2-0-windows-312/issues"
+urls.repository = "https://github.com/whiteprints-tests/test-gh-rtd-mit-or-apache-2-0-windows-312"
 
 [dependency-groups]
 dev = [
