@@ -19,6 +19,7 @@ SPDX-License-Identifier: MIT OR Apache-2.0
         <a href="https://github.com/whiteprints-tests/test-gh-rtd-mit-or-apache-2-0-windows-312/discussions"><img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/whiteprints-tests/test-gh-rtd-mit-or-apache-2-0-windows-312.svg?logo=GitHub"></a>
         <a href="https://api.reuse.software/info/github.com/whiteprints-tests/test-gh-rtd-mit-or-apache-2-0-windows-312"><img alt="REUSE status" src="https://api.reuse.software/badge/github.com/whiteprints-tests/test-gh-rtd-mit-or-apache-2-0-windows-312"/></a>
         <a href="https://www.contributor-covenant.org/version/2/1/code_of_conduct/"><img alt="contributor covenant badge" src="https://img.shields.io/badge/Contributor_Covenant-2.1-4BAAAA.svg?logo=contributorcovenant"/></a>
+        <a href="https://codecov.io/gh/whiteprints-tests/test-gh-rtd-mit-or-apache-2-0-windows-312" ><img alt="codecov badge" src="https://codecov.io/gh/whiteprints-tests/test-gh-rtd-mit-or-apache-2-0-windows-312/graph/badge.svg?token="/></a>
     </p>
 </div>
 
